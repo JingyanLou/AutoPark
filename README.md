@@ -17,7 +17,7 @@ A street parking mobile application built with Kotlin and Jetpack Compose.
 <img width="561" alt="System Diagram" src="https://github.com/JingyanLou/AutoPark/assets/92469426/a379e41b-00e4-4e8f-a434-482bba822e39">
 </p>
 
-# UI
+# User Interface
 <p align="center">
 <img width="523" alt="UI 1" src="https://github.com/JingyanLou/AutoPark/assets/92469426/eca04a86-41dc-4904-aeb2-449463a5ab15">
 <img width="523" alt="UI 2" src="https://github.com/JingyanLou/AutoPark/assets/92469426/8a8e624e-5b7c-4492-9c02-09292ac3f62e">
