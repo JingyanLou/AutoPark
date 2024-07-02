@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/fofolove/AndroidStudioProjects/NavigationDrawer/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/fofolove/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/fofolove/AndroidStudioProjects/NavigationDrawer/app/.cxx/Debug/5y344e1r/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/fofolove/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/fofolove/AndroidStudioProjects/NavigationDrawer/app/.cxx/Debug/5y344e1r/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "autopark::@6890427a1f51a3e7e1df": {
+      "artifactName": "autopark",
+      "abi": "x86",
+      "output": "/Users/fofolove/AndroidStudioProjects/NavigationDrawer/app/build/intermediates/cxx/Debug/5y344e1r/obj/x86/libautopark.so",
+      "runtimeFiles": []
+    }
+  }
+}
